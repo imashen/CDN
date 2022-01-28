@@ -1,0 +1,7 @@
+deb https://repo.huaweicloud.com/debian buster main contrib non-free
+deb https://repo.huaweicloud.com/debian-security/ buster/updates main contrib non-free
+deb https://repo.huaweicloud.com/debian buster-updates main contrib non-free
+# Uncomment deb-src lines below then 'apt-get update' to enable 'apt-get source'
+#deb-src https://repo.huaweicloud.com/debian buster main contrib non-free
+#deb-src https://repo.huaweicloud.com/debian-security/ buster/updates main contrib non-free
+#deb-src https://repo.huaweicloud.com/debian buster-updates main contrib non-free
